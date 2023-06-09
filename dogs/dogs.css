@@ -1,0 +1,36 @@
+*.h1g {
+    font-size: 100px;
+    color: black;
+    padding-bottom: 30px;
+}
+
+.p2 {
+    color: black;
+}
+
+img {
+    height: 300px;
+}
+
+body {
+    background-color: rgb(73, 172, 172);
+}
+
+.header,
+.footer {
+    background-color: rgb(33, 146, 33);
+
+}
+
+.content {
+    background-color: rgb(139, 141, 32);
+}
+
+.div3 {
+    background-color:rgba(129, 255, 255, 0.5) ; 
+    }
+ 
+iframe {
+height: 300px;
+width: 500px;
+}
